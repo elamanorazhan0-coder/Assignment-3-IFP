@@ -1,0 +1,13 @@
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/PriceMJ/bin/Debug/net8.0/PriceMJ.deps.json
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/PriceMJ/bin/Debug/net8.0/PriceMJ.runtimeconfig.json
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/PriceMJ/bin/Debug/net8.0/PriceMJ.dll
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/PriceMJ/bin/Debug/net8.0/PriceMJ.pdb
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/PriceMJ/obj/Debug/net8.0/PriceMJ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/PriceMJ/obj/Debug/net8.0/PriceMJ.AssemblyInfoInputs.cache
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/PriceMJ/obj/Debug/net8.0/PriceMJ.AssemblyInfo.cs
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/PriceMJ/obj/Debug/net8.0/PriceMJ.csproj.CoreCompileInputs.cache
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/PriceMJ/obj/Debug/net8.0/PriceMJ.dll
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/PriceMJ/obj/Debug/net8.0/refint/PriceMJ.dll
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/PriceMJ/obj/Debug/net8.0/PriceMJ.pdb
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/PriceMJ/obj/Debug/net8.0/PriceMJ.genruntimeconfig.cache
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/PriceMJ/obj/Debug/net8.0/ref/PriceMJ.dll

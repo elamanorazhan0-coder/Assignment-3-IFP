@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "33iy4Lxcfvo=",
+  "success": true,
+  "projectFilePath": "/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/PriceMJ/PriceMJ.csproj",
+  "expectedPackageFiles": [
+    "/Users/elamanorazhan/.nuget/packages/microsoft.netcore.app.ref/8.0.31/microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "/Users/elamanorazhan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.31/microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

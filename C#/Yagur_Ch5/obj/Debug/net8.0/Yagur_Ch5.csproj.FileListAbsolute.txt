@@ -1,0 +1,13 @@
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/Yagur_Ch5/bin/Debug/net8.0/Yagur_Ch5.deps.json
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/Yagur_Ch5/bin/Debug/net8.0/Yagur_Ch5.runtimeconfig.json
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/Yagur_Ch5/bin/Debug/net8.0/Yagur_Ch5.dll
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/Yagur_Ch5/bin/Debug/net8.0/Yagur_Ch5.pdb
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/Yagur_Ch5/obj/Debug/net8.0/Yagur_Ch5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/Yagur_Ch5/obj/Debug/net8.0/Yagur_Ch5.AssemblyInfoInputs.cache
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/Yagur_Ch5/obj/Debug/net8.0/Yagur_Ch5.AssemblyInfo.cs
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/Yagur_Ch5/obj/Debug/net8.0/Yagur_Ch5.csproj.CoreCompileInputs.cache
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/Yagur_Ch5/obj/Debug/net8.0/Yagur_Ch5.dll
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/Yagur_Ch5/obj/Debug/net8.0/refint/Yagur_Ch5.dll
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/Yagur_Ch5/obj/Debug/net8.0/Yagur_Ch5.pdb
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/Yagur_Ch5/obj/Debug/net8.0/Yagur_Ch5.genruntimeconfig.cache
+/Users/elamanorazhan/Desktop/Assignment#3-IFP/C#/Yagur_Ch5/obj/Debug/net8.0/ref/Yagur_Ch5.dll
